@@ -17,6 +17,6 @@ function quebrada(){
 
 turnOn.addEventListener('click', lampOn);
 turnOFF.addEventListener('click', lampOFF);
-lampada.addEventListener('click', quebrada);
+lampada.addEventListener('dblclick', quebrada);
 lampada.addEventListener('mouseover',lampOn);
 trocarLamp.addEventListener('click', lampOFF);
