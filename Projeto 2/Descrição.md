@@ -1,0 +1,1 @@
+Neste projeto é apresentado uma lâmpada, ao clicar no botão vc pode trocar o estado de apagada para acesa ou se clicar na imagem ela se quebra

@@ -1,0 +1,13 @@
+/*
+Nesse Arquivo .css basicamente vamos centralizar tudo da pagina
+*/
+header, main{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+button{
+    width: 120px;
+    height: 50px;
+    border-radius: 40px;
+}
